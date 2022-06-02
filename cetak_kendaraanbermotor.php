@@ -58,7 +58,7 @@
     h1,h2,h3,h4{
         line-height:10px;
     }
-    #print .camat {
+    #print .Kepala Tata Usaha {
         float:left;
         width:250px;
         background-position:center;
@@ -70,13 +70,13 @@
     <div id="print">
     <table class='table1'>
             <tr>
-<td><img src='images/bekasi.jpg' height="150" width="150"></td>
+<td><img src='images/logo_fai.png' height="150" width="150"></td>
                 <td>
 
-        <h2 style="font-size:32px; margin:20px">PEMERINTAHAN KABUPATEN BEKASI</h2>
-        <h1 style="font-size:40px">KECAMATAN KEDUNG WARINGIN</h1>
-        <h2 style="font-size:24px">Jl. Raya kedunggede No.10 DesaKedungWaringin</h2>
-        <h3 style="font-size:30px; margin-top:10px" >KEDUNGWARINGIN-BEKASI 17540</h3>
+        <h2 style="font-size:32px; margin:20px">Universitas Islam Sultan Agung</h2>
+        <h1 style="font-size:40px">Fakultas Agama Islam</h1>
+        <h2 style="font-size:24px">Jl. Kaligawe Raya KM 4, Terboyo Kulon</h2>
+        <h3 style="font-size:30px; margin-top:10px" >Kec. Genuk, Kota Semarang, Jawa Tengah 50112</h3>
     </td>
     </tr>
 </table>
@@ -124,12 +124,12 @@ if(isset($_GET['tahun'])==''){
 </div>
 
 <div id="print">
-<table width="450" text-align="left" class="camat">
+<table width="450" text-align="left" class="Kepala Tata Usaha">
 <tr>
 <td width="100px" style="padding:20px 20px 20px 20px;" text-align="center">
-<strong>Mengetahui,<br>Camat</strong>
+<strong>Mengetahui,<br>Kepala Tata Usaha</strong>
       <br><br><br>
-<strong><u><br>Drs. H. ASAN ASARI.</u><br>NIP:196704201994031009<br></strong><small></small>
+<strong><u><br>Suryati</u><br>NIP:XXXXX<br></strong><small></small>
 </td>
 </tr>
 </table>
@@ -139,7 +139,7 @@ if(isset($_GET['tahun'])==''){
 <table width="450" text-align="right" class="ttd">
 <tr>
 <td width="100px" style="padding:20px 20px 20px 20px;" text-align="center">
-<strong>Kedungwaringin,<?php 
+<strong>Semarang,<?php 
     $tgl=date('d M Y');
     echo $tgl;
 ?> 
@@ -147,7 +147,7 @@ if(isset($_GET['tahun'])==''){
 <br>
 <strong>Pengurus barang</strong>
       <br><br><br><br><br>
-<strong><u>RD.DIAH SETIAWATI</u><br>NIP:1965111811986032005<br></strong><small></small>
+<strong><u>Daruji Sagade</u><br>NIP:1965111811986032005<br></strong><small></small>
 </td>
 </tr>
 </table>

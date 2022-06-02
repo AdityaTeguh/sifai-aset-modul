@@ -26,7 +26,7 @@
           }
         }
   </style>
-  <link rel="icon" type="image/png" sizes="16x16" href="images/si-iak-icon.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="images/logo_fai.png" />
   <title>Login</title>
 </head>
 
@@ -36,7 +36,7 @@
   <div class="container-fluid h-custom">
     <div class="row d-flex justify-content-center align-items-center h-100">
       <div class="col-md-9 col-lg-6 col-xl-5">
-        <img src="images/si-iak.png" class="img-fluid"
+        <img src="images/logo_fai.png" class="img-fluid"
           alt="Sample image">
       </div>
       <div class="col-md-8 col-lg-6 col-xl-4 offset-xl-1">
@@ -101,13 +101,13 @@
   </div></div>
   <div
          class="text-center p-3"
-         style="background-color: #003366;
+         style="background-color: green;
                 position:fixed;
                 bottom: 0;
                 width:100%;
                 color:white; "
          >
-      © 2021 Copyright: Ardian Mulya Diniar & Muhamad Adzriel Akbar
+      © 2022 Copyright: Fakultas Agama Islam
       
     </div>
 </section>

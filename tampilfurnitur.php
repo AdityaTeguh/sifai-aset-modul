@@ -13,7 +13,7 @@
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
   <meta name="description" content="Orbitor,business,company,agency,modern,bootstrap4,tech,software">
   <meta name="author" content="themefisher.com">
-  <link rel="icon" type="image/png" sizes="16x16" href="images/si-iak-icon.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="images/logo_fai.png" />
   <title>Data Furnitur</title>
 
   <!-- Favicon -->
@@ -48,7 +48,7 @@ if($_SESSION['hak_akses'] == 'User'){
     <nav class="navbar navbar-expand-lg navigation" id="navbar">
       <div class="container">
         <a class="navbar-brand" href="index.php">
-            <img src="images/logo-text.png" width="200px"class="img-fluid">
+            <img src="images/logo-fai-text.png" width="200px"class="img-fluid">
           </a>
 
           <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">
@@ -107,13 +107,13 @@ if($_SESSION['hak_akses'] == 'User'){
           <div class="col-lg-6">
             <ul class="top-bar-info list-inline-item pl-0 mb-0">
               
-              <li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Kecamatan Kedung Waringin</li>
+              <li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Fakultas Agama Islam</li>
             </ul>
           </div>
           <!-- <div class="col-lg-6">
             <div class="text-lg-right top-right-bar mt-2 mt-lg-0">
               <a href="" >
-                <span>Kecamatan Kedung Waringin </span>
+                <span>Fakultas Agama Islam </span>
                 
               </a>
             </div>
@@ -132,7 +132,7 @@ else if($_SESSION['hak_akses'] == 'admin'){
     <nav class="navbar navbar-expand-lg navigation" id="navbar">
       <div class="container">
         <a class="navbar-brand" href="admin.php">
-            <img src="images/logo-text.png" width="200px" alt="" class="img-fluid">
+            <img src="images/logo-fai-text.png" width="200px" alt="" class="img-fluid">
           </a>
 
           <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarmain" aria-controls="navbarmain" aria-expanded="false" aria-label="Toggle navigation">
@@ -181,7 +181,7 @@ else if($_SESSION['hak_akses'] == 'admin'){
           <div class="col-lg-6">
             <ul class="top-bar-info list-inline-item pl-0 mb-0">
               
-              <li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Kecamatan Kedung Waringin</li>
+              <li class="list-inline-item"><i class="icofont-location-pin mr-2"></i>Fakultas Agama Islam</li>
             </ul>
           </div>
           
@@ -377,7 +377,7 @@ else if($_SESSION['hak_akses'] == 'admin'){
          style="background-color: #003366;
          color:white;"
          >
-      © 2021 Copyright: Ardian Mulya Diniar & Muhamad Adzriel Akbar
+      © 2022 Copyright: Fakultas Agama Islam
       
     </div>
 </footer>

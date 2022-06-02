@@ -1,5 +1,5 @@
 <?php 
-$con = mysqli_connect("localhost", "root", "", "db_siiak");
+$con = mysqli_connect("localhost", "root", "", "asetfai");
 $model = $_GET['id'];
 
 $query = mysqli_query($con, "SELECT * FROM kba_kb where model = '$model'");
